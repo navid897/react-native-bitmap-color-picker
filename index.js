@@ -285,7 +285,7 @@ const makeComputedStyles = ({
         },
         pickerIndicator: {
             top: pickerY - indicatorSize / 2,
-            left: pickerX - indicatorSize / 2,
+            right: pickerX - indicatorSize / 2,
             width: indicatorSize,
             height: indicatorSize,
             borderRadius: indicatorSize / 2,
